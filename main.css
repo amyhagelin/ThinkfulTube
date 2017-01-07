@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+  margin-left: 40px;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+	margin-top: 20px;
+	border: 1px solid black;
+}
